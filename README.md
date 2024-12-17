@@ -7,7 +7,8 @@ Greetings! My name is Thomas, and this is my still developing data engineer port
 - Brief overview: Iv'e created an ETL pipeline with Databricks to make datasets from [kaggle.com](https://www.kaggle.com/datasets/octopusteam/full-apple-tv-dataset) usable in a Looker Studio dashboard.
 - Technology used: *Python, SQL, PySpark*
 - Final result: [*Looker Studio dashboard*](https://lookerstudio.google.com/reporting/cec21366-93d6-49c1-b44b-13a5a8bf2d55/page/BsBXE)
-
+# 
+[My LinkedIn Profile](https://www.linkedin.com/in/thomasdewit/)
 <!--
 ### [Web Scrapping - Beautiful Soup](https://github.com/lucjankonopka/web_scrapping)
 
@@ -56,6 +57,5 @@ The task was to get number of rides from one station to another and present the 
 
 - [Python - Automating tools](https://github.com/lucjankonopka/automating_tools) 
 
-# 
-[My LinkedIn Profile](https://www.linkedin.com/in/thomasdewit/)
+
 -->
