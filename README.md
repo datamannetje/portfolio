@@ -2,7 +2,7 @@
 
 Greetings! My name is Thomas, and this is my still developing data engineer portfolio. Within this repository, you'll find a catalog of projects completed in various data analytics/engineering courses or self development exercises.
 #
-### [Databriks ETL pipeline](https://github.com/datamannetje/databricks-etl-pipeline)
+### [Databricks ETL pipeline](https://github.com/datamannetje/databricks-etl-pipeline)
 
 - Brief overview: Iv'e created an ETL pipeline with Databricks to make datasets from [kaggle.com](https://www.kaggle.com/datasets/octopusteam/full-apple-tv-dataset) usable in a Looker Studio dashboard.
 - Technology used: *Python, SQL, PySpark*
